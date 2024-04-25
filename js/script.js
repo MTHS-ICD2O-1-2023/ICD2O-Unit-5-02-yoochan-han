@@ -4,7 +4,7 @@
 // Created on: Apr 2024
 // This file contains the JS functions for index.html
 function RandomNumber() {
-  const mark = document.getElementById("options").value
+  const mark = document.getElementById("option-1").checked
   //generate any number
   const randomNumber = Math.floor(Math.random() * 6) + 1
   // returns a random integer from 1 to 6 into variable "randomNumber"
