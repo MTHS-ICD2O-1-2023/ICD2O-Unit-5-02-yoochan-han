@@ -13,4 +13,4 @@ function RandomNumber() {
   }else {
     document.getElementById("TheAnswer").innerHTML = "Random Number!: -" + randomNumber //memory for str = 1byte memory for int = 4byte
   }
-}
+} 
