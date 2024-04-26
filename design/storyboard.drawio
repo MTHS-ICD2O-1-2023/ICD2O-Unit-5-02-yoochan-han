@@ -1,14 +1,38 @@
 <mxfile host="65bd71144e">
     <diagram id="HIP3nbAZw_EuaXWnEj3U" name="Page-1">
-        <mxGraphModel dx="873" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1027" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="7" value="http://ics2o.mths.ca" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="40" y="40" width="760" height="480" as="geometry"/>
+                    <mxGeometry x="45" y="30" width="760" height="480" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; wdwd&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="7">
+                <mxCell id="8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Random number maker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="7">
                     <mxGeometry y="20" width="760" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;h4 style=&quot;color: rgb(230, 237, 243); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Computer will generate numbers 1 to 6&lt;/span&gt;&lt;/h4&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="10" y="70" width="330" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=20;fillColor=none;" vertex="1" parent="7">
+                    <mxGeometry x="20" y="110" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Positive&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="7">
+                    <mxGeometry x="28" y="97" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;b&gt;Generate&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="7">
+                    <mxGeometry x="185" y="100" width="95" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="The Random Number:(+ or -) 1 ~ 6 random number" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fillColor=default;" vertex="1" parent="7">
+                    <mxGeometry x="10" y="150" width="330" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Laptop image" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=14;fillColor=default;" vertex="1" parent="7">
+                    <mxGeometry x="425" y="70" width="215" height="215" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=20;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="140" width="10" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Negative&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="161" y="127" width="60" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

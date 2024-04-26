@@ -26,3 +26,9 @@ h2 {
   position: relative;
   left: 30px;
 }
+
+.right-image {
+  position: relative;
+  float: right;
+  right: 180px;
+}
